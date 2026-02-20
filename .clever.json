@@ -1,12 +1,12 @@
 {
   "apps": [
     {
-      "app_id": "app_f112d1dc-a6d8-4933-8d4c-32f4d9e85297",
+      "app_id": "app_35455f9e-4b84-46e7-9a11-68a04019c587",
       "org_id": "orga_3cd4421c-932c-4993-a60b-ad28ef957948",
-      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_f112d1dc-a6d8-4933-8d4c-32f4d9e85297.git",
-      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_f112d1dc-a6d8-4933-8d4c-32f4d9e85297.git",
-      "name": "app-name",
-      "alias": "app-name"
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_35455f9e-4b84-46e7-9a11-68a04019c587.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_35455f9e-4b84-46e7-9a11-68a04019c587.git",
+      "name": "Self-information",
+      "alias": "Self-information"
     }
   ]
 }
