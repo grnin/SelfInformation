@@ -7,6 +7,14 @@
       "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_35455f9e-4b84-46e7-9a11-68a04019c587.git",
       "name": "Self-information",
       "alias": "Self-information"
+    },
+    {
+      "app_id": "app_24aac1cb-ee24-4eb8-9e74-2b036cadb577",
+      "org_id": "orga_3cd4421c-932c-4993-a60b-ad28ef957948",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_24aac1cb-ee24-4eb8-9e74-2b036cadb577.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_24aac1cb-ee24-4eb8-9e74-2b036cadb577.git",
+      "name": "Information",
+      "alias": "Information"
     }
   ]
 }
